@@ -1,0 +1,4 @@
+Go to booking.com
+Click "Sign In" button
+Click on "Sign in with Google"
+Verify if window was opened in a new tab and is asking you to sign in with your Google account

@@ -1,0 +1,7 @@
+Go to booking.bom
+Click on "Register" button
+Click on hamburger icon 
+Click on "Sign in" link
+Verify if the form changed to "Sign in"
+Click back arrow (next to "Booking.com Account")
+Verify if the form changed to "Create your account"

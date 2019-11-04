@@ -1,0 +1,6 @@
+Go to booking.com
+Click "Sign In" button
+Click on "Having trouble signing in" link
+Verify if the form changed to "Forgot your password?"
+Click back arrow (on browser)
+Verify if the form changed to "Sign in"

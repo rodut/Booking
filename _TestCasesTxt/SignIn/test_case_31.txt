@@ -1,0 +1,11 @@
+Go to booking.com
+Click "Sign In" button
+Enter a valid email (jacknicholson@djimail.com)
+Click "Next" button
+Enter a valid password (12345678)
+Click "Sign in" button
+Click back arrow (on browser)
+Go to booking.com
+Click on "Your Account" dropdown menu
+Click on "My Dashboard" link
+Verify if user is still logged in

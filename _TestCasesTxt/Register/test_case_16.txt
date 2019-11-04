@@ -1,0 +1,4 @@
+Go to booking.bom
+Click on "Register" button
+Click on "Sign in with Facebook" button
+Verify if a new tab was opened asking you to login to your facebook account

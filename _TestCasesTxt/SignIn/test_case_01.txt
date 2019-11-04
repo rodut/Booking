@@ -1,0 +1,3 @@
+Go to booking.com
+Click "Sign In" button
+Verify if "Sign In" page was opened

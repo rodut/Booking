@@ -1,0 +1,3 @@
+Go to booking.com
+Click "Sign In" button
+Verify if "All rights reserved /n Copyright (2006-2019) – Booking.com™" text is present

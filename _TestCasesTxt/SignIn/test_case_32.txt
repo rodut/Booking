@@ -1,0 +1,11 @@
+Go to booking.com
+Click "Sign In" button
+Enter a valid email (jacknicholson@djimail.com)
+Enter a valid password (12345678)
+Click "Sign in" button
+Click on "Your Account" dropdown menu
+Click on "Sign out" link
+Click back arrow (on browser)
+Click on "Your Account" dropdown menu
+Click on "My Dashboard" link
+Verify that clicking on browser back button after successful logout should not take User to logged in mode

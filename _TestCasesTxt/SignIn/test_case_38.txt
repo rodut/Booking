@@ -1,0 +1,7 @@
+Go to booking.com
+Click "Sign In" button
+Click on hamburger icon
+Select "Having trouble signing in?"
+Enter a valid email address (jacknicholson@djimail.com)
+Click on "Confirm" button
+Verify if the form changed to "Check your inbox"

@@ -1,0 +1,4 @@
+Go to booking.com
+Click "Sign In" button
+Click on "Sign up" link
+Verify if "Create your account" page was opened

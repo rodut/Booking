@@ -1,0 +1,6 @@
+Go to booking.com
+Click "Sign In" button
+Enter a valid email account (jacknicholson@djimail.com)
+Click on "Next" button
+Check if "Booking.com password" field is present
+Check if "Sign in" button is present

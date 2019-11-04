@@ -1,0 +1,8 @@
+Go to booking.bom
+Click on "Register" button
+Enter a new valid email address (jacknicholson41@djimail.com)
+Click on "Get started" link
+Enter a valid password in "Create password" field ("123456789")
+Enter a valid password in "Confirm password" field ("123456789")
+Click "Create account" button
+Verify if the account was created

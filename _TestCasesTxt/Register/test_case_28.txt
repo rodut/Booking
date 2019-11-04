@@ -1,0 +1,4 @@
+Go to booking.bom
+Click on "Register" button
+Click on "List Your Property" link
+Verify if "List Your Apartment, Hotel..." page was opened

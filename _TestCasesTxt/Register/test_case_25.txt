@@ -1,0 +1,4 @@
+Go to booking.bom
+Click on "Register" button
+Click on "Booking.com for Business?" link
+Verify if "Booking.com for Business" page was opened in a new window

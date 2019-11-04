@@ -1,0 +1,7 @@
+Go to booking.com
+Click "Sign In" button
+Enter an invalid email (jacknicholso44n@djimail.com)
+Click on "Next" button
+Verify if an alert message appeared
+Click on "create an account" link
+Verify if the form changed to "Create your account"

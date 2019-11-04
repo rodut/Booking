@@ -1,0 +1,6 @@
+Go to booking.com
+Click "Sign In" button
+Enter a valid email (jacknicholson@djimail.com)
+Click on "Next" button
+Enter a valid password (12345678)
+Verify if password is in encrypted form

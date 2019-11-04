@@ -1,0 +1,4 @@
+Go to booking.com
+Click "Sign In" button
+Click on "confirmation number and PIN" link
+Verify if "confirmation number and PIN" page was opened in a new window

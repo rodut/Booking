@@ -1,0 +1,3 @@
+Go to booking.bom
+Click on "Register" button
+Verify if "Interested in Booking.com for Business?" text is present

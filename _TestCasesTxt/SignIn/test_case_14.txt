@@ -1,0 +1,5 @@
+Go to booking.com
+Click "Sign In" button
+Click on hamburger icon
+Click on "Privacy statement" link
+Verify if "Privacy statement" link was opened in a new window

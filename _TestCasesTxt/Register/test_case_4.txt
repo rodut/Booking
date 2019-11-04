@@ -1,0 +1,5 @@
+Go to booking.bom
+Click on "Register" button
+Enter an email with incorrect format (jacknicholson@djimailcom)
+Click on "Get started" button
+Verify if an error message appears (Make sure the email address you entered is correct.)

@@ -1,0 +1,5 @@
+Go to booking.com
+Click on "Sign in" button
+Enter an email with incorrect format (jacknicholson@djimailcom)
+Click on "Next" button
+Verify if an error message appears (Make sure the email address you entered is correct.)

@@ -1,0 +1,3 @@
+Go to booking.bom
+Click on "Register" button
+Verify if "Make changes to a booking with your" text is present

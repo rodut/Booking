@@ -1,0 +1,4 @@
+Go to booking.com
+Click "Sign In" button
+Click "Next" button
+Verify if an error message appears (Enter your email address)

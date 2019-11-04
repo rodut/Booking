@@ -1,0 +1,4 @@
+Go to booking.bom
+Click on "Register" button
+Click on "Terms & Conditions" link
+Verify if "Terms & Conditions" page was opened in a new window

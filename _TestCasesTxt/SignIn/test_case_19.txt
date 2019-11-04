@@ -1,0 +1,3 @@
+Go to booking.com
+Click "Sign In" button
+Verify if "You can sign in using your Booking.com account to access our services." text is present

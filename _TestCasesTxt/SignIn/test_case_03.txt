@@ -1,0 +1,3 @@
+Go to booking.com
+Click "Sign In" button
+Verify if "Next" button is present

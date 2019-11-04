@@ -1,0 +1,6 @@
+Go to booking.com
+Click "Sign In" button
+Enter a valid email address
+Click "Sign up" link
+Click back arrow (next to Booking.com Account)
+Verify if the email field is empty

@@ -1,0 +1,6 @@
+Go to booking.com
+Click "Sign In" button
+Enter a valid email account (jacknicholson@djimail.com)
+Enter an invalid password (87654321)
+Click "Sign in" button
+Verify if an error message appeared (The email and password combination you entered doesn't match.)

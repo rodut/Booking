@@ -1,0 +1,7 @@
+Go to booking.com
+Click "Sign In" button
+Enter an inactive (deleted) email (abracadabra@djimail.com)
+Click on "Next" button
+Verify if an error message appears (Looks like there isn't an account associated with this email address...)
+Click on "create an account" link
+Verify if the form changed to "Create your account"

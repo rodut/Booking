@@ -1,0 +1,9 @@
+Go to booking.com
+Click on "Sign In" button
+Enter a valid email (jacknicholson@djimail.com)
+Click on "Next" button
+Enter a valid password (12345678)
+Copy the password (ctrl+c)
+Delete the password from the password field
+Paste the password in (ctrl+v)
+Verify if an error message appears (Enter your Booking.com password)

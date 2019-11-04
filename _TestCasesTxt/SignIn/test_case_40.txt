@@ -1,0 +1,4 @@
+Go to booking.com
+Click on "Sign In" button
+Click on back arrow (next to Booking.com Account)
+Verify if user returned to main page

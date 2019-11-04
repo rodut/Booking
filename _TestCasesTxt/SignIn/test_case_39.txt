@@ -1,0 +1,7 @@
+Go to booking.com
+Click on "Sign In" button
+Click on hamburger icon
+Select "Having trouble signing in?"
+Enter a invalid email address (jacknicholson44@djimail.com)
+Click on "Confirm" button
+Verify if an error message appears (Looks like there isn't an account associated with this email address...)

@@ -1,0 +1,3 @@
+Go to booking.com
+Click "Sign In" button
+Verify if "Email" field is present

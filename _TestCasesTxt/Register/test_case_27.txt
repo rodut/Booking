@@ -1,0 +1,3 @@
+Go to booking.bom
+Click on "Register" button
+Verify if "Rent out your place on Booking.com" text is present

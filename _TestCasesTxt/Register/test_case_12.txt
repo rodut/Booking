@@ -1,0 +1,6 @@
+Go to booking.bom
+Click on "Register" button
+Click on hamburger icon
+Verify if hamburger icon contains "Sign in"
+Verify if hamburger icon contains "Privacy statement"
+Verify if hamburger icon contains "Terms & conditions"

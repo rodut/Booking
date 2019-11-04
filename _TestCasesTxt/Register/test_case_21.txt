@@ -1,0 +1,3 @@
+Go to booking.bom
+Click on "Register" button
+Verify if "By signing in or creating an account, you agree with our" text is present

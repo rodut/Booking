@@ -1,0 +1,4 @@
+Go to booking.com
+Click "Sign In" button
+Click on "Sign in with Facebook" button
+Verify if window was opened in a new tab and is asking you to login to your facebook account

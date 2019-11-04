@@ -1,0 +1,5 @@
+Go to booking.bom
+Click on "Register" button
+Enter an existing email address (jacknicholson@djimail.com)
+Click on "Get started" button
+Verify if an error message appears

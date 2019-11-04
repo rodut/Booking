@@ -1,0 +1,4 @@
+Go to booking.com
+Click "Sign In" button
+Click on "Terms & Conditions" link
+Verify if "Terms & Conditions" page was opened in a new window

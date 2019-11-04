@@ -1,0 +1,4 @@
+Go to booking.bom
+Click on "Register" button
+Select "Deutsch" language
+Verify if the language of the page was changed to Deutsch

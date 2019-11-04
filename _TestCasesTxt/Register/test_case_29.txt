@@ -1,0 +1,5 @@
+Go to booking.bom
+Click on "Register" button
+Enter a new valid email account "jacknicholson41@djimail.com"
+Click on "Get started" button
+Verify if the email is present on page
