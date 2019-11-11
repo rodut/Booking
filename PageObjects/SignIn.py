@@ -1,7 +1,7 @@
 from selenium.webdriver.common.keys import Keys
 import time
 
-__author__ = "Chirosca Tudor"
+__author__ = "Tudor C"
 __email__ = "tudorache@gmail.com"
 
 
