@@ -2,7 +2,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class SignIn:

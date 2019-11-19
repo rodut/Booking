@@ -1,7 +1,6 @@
 from selenium.webdriver.support.ui import Select
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class Register:

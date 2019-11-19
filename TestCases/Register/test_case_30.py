@@ -11,7 +11,6 @@ import sys
 sys.path.append("C:/Users/Tudor/PycharmProjects/Booking")
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class RegisterTest30(unittest.TestCase):

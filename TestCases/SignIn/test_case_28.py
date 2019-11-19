@@ -4,13 +4,11 @@ from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-import time
 from PageObjects.SignIn import SignIn
 import sys
 sys.path.append("C:/Users/Tudor/PycharmProjects/Booking")
 
 __author__ = "Tudor C"
-__email__ = "tudorache@gmail.com"
 
 
 class SignInTest28(unittest.TestCase):
